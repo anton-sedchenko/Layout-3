@@ -1,2 +1,2 @@
 # Layout-3
-Semantic and document structure training
+Practice of working with semantic and document structure
